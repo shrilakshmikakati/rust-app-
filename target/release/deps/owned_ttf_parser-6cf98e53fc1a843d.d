@@ -1,0 +1,10 @@
+/home/shrilakshmi/student-grade-system/target/release/deps/libowned_ttf_parser-6cf98e53fc1a843d.rmeta: /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/lib.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/convert.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/owned.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/preparse.rs
+
+/home/shrilakshmi/student-grade-system/target/release/deps/libowned_ttf_parser-6cf98e53fc1a843d.rlib: /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/lib.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/convert.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/owned.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/preparse.rs
+
+/home/shrilakshmi/student-grade-system/target/release/deps/owned_ttf_parser-6cf98e53fc1a843d.d: /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/lib.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/convert.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/owned.rs /home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/preparse.rs
+
+/home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/lib.rs:
+/home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/convert.rs:
+/home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/owned.rs:
+/home/shrilakshmi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.19.0/src/preparse.rs:
